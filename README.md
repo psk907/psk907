@@ -2,6 +2,7 @@
 
 #### If you're here and don't know me yet, then here's a few !(fun) facts about me - 
 🎓 I'm a Computer Science Undergrad entering my 2nd year at Ramaiah Institute of Technology.
+
 💻 Yeah, of course I code, but what I find even more fun is making apps.
 I use Flutter for my work, and if you don't, you really should give it a shot.
 
