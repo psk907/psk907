@@ -1,26 +1,14 @@
 ### Hi there 👋
 
 #### If you're here and don't know me yet, then here's a few !(fun) facts about me - 
-I'm a Computer Science Undergrad entering my 2nd year at Ramaiah Institute of Technology.
-Yeah, ofcourse I code, but what I find even more fun is making apps.
+🎓 I'm a Computer Science Undergrad entering my 2nd year at Ramaiah Institute of Technology.
+💻 Yeah, of course I code, but what I find even more fun is making apps.
 I use Flutter for my work, and if you don't, you really should give it a shot.
 
-Right now I'm working with my team - Statefully Fidgeting on a game, called 'Tug of War'. Find it on the Play Store later this month.🤠
+🎮 Right now I'm working with my team - [Statefully Fidgeting](github.com/statefully-fidgeting) on a game, called 'Tug of War'.  Find it on the Play Store later this month.🤠
 
-If you want to chat, hit me up on my insta @psk907.
+🗣 If you want to chat, [hit me up](https://www.instagram.com/psk_907/).
 
-#### continue;
+#### `continue;`
 <!--
-**psk907/psk907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**psk907/psk907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
