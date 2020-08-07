@@ -16,7 +16,7 @@ Right now I'm working with my team - [Statefully Fidgeting <img align="left" alt
 [<img align="left" alt="Suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Suraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-<img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=true" />
+<img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true" />
 
 [twitter]: https://twitter.com/psk_907
 [youtube]: https://www.youtube.com/channel/UCO8sg4oeacuBRcM99SZ3vIA
