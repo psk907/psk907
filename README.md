@@ -6,7 +6,7 @@
 💻 Yeah, of course I code, but what I find even more fun is making apps.
 I use Flutter for my work, and if you don't, you really should give it a shot.
 
-Right now I'm working with my team - [Statefully Fidgeting <img align="left" alt="Logo" width="22px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Ffidget-spinner-tilted.png?v=1596813140344" /><img align="right" alt="Game | Logo" width="55px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Flogo.png?v=1596353887296" />](github.com/statefully-fidgeting) on a game, it's called 'Tug of War'.
+Right now I'm working with my team - [Statefully Fidgeting <img align="left" alt="Logo" width="22px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Ffidget-spinner-tilted.png?v=1596813140344" /><img align="right" alt="Game | Logo" width="55px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Flogo.png?v=1598621093786" />](github.com/statefully-fidgeting) on a game, it's called 'Tug of War'.
 <br/>Find it on the Play Store later this month.🤠
 
 #### 🗣 Get in touch :
