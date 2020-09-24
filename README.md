@@ -1,13 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-#### If you're here and don't know me yet, then here's a few !(fun) facts about me - 
-🎓 I'm a Computer Science Undergrad entering my 2nd year at Ramaiah Institute of Technology.
+### If you're here and don't know me yet, then here's a few !(fun) facts about me - 
+🎓 I'm a Computer Science Undergrad at Ramaiah Institute of Technology.
 
-💻 Yeah, of course I code, but what I find even more fun is making apps.
-I use Flutter for my work, and if you don't, you really should give it a shot.
+💻 Yeah, of course I code, but what I find even more exciting is App Development.
+I use Flutter for my work, and if you don't yet, you really should give it a shot.
 
-Right now I'm working with my team - [Statefully Fidgeting <img align="left" alt="Logo" width="22px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Ffidget-spinner-tilted.png?v=1596813140344" /><img align="right" alt="Game | Logo" width="55px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Flogo.png?v=1598621093786" />](github.com/statefully-fidgeting) on a game, it's called 'Tug of War'.
-<br/>Find it on the Play Store later this month.🤠
+I lead a small group of developers by the name [Statefully Fidgeting <img align="left" alt="Logo" width="22px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Ffidget-spinner-tilted.png?v=1596813140344" />](https://github.com/Statefully-Fidgeting) in a game development journey on Flutter.
+
+Presenting to you -
+## Tug Of War - A Witty Multiplayer Game
+
+### Tug Of War is an all new casual gaming experience for you and your friends, partner or family.<img align="right" alt="Game | Logo" width="55px" src="https://cdn.glitch.com/96e3a537-d786-44ff-b2b9-52453aa455dc%2Flogo.png?v=1598621093786" />
+
+### DONWLOAD NOW from the link below !
+
+### [https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar ](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
+<br/>
 
 #### 🗣 Get in touch :
 
@@ -22,4 +31,3 @@ Right now I'm working with my team - [Statefully Fidgeting <img align="left" alt
 [youtube]: https://www.youtube.com/channel/UCO8sg4oeacuBRcM99SZ3vIA
 [instagram]: https://instagram.com/psk_907
 [linkedin]: https://linkedin.com/in/psk907
-
