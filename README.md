@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-🎓 I'm an undergraduate student at Ramaiah Institute of Technology exploring various fields of software development to learn new skills and apply my knowledge in problem solving and product development through active participation in hackathons and projects. 💻 
+🎓 I'm an undergraduate student at Ramaiah Institute of Technology exploring various fields of software development to learn new skills and apply my knowledge in problem solving and product development through active participation in hackathons, internships and projects. 💻 
 
 ### Top Projects :
+- [Fluttermoji | pub.dev](https://pub.dev/packages/fluttermoji)
+  
+  <img align="right" height="50" src="https://user-images.githubusercontent.com/37346450/103101129-1b9a2100-463c-11eb-8a94-b6fbe44bf00f.png" />
+  A light-weight and highly customizable SVG graphic set for Flutter, which provides a Customizer Widget, CircleAvatar and other utility functions.
+  Personalize your fluttter app now !
 
 - [Tug Of War - A Witty Multiplayer Game](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
   
