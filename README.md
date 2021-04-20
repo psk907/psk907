@@ -1,13 +1,21 @@
 ## Hi there 👋
 
-🎓 I'm an undergraduate student at Ramaiah Institute of Technology exploring various fields of software development to learn new skills and apply my knowledge in problem solving and product development through active participation in hackathons, internships and projects. 💻 
+[<img align="left" alt="Suraj | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Suraj | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Suraj | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Suraj | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="Suraj | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 
-### Top Projects :
+
+
+<br/> <br/>
+💻🔭 I'm a technology and space enthusiast who likes to build stuff with code.
+
+### My best work yet :
 - [Fluttermoji | pub.dev](https://pub.dev/packages/fluttermoji)
   
   <img align="right" height="50" src="https://user-images.githubusercontent.com/37346450/103101129-1b9a2100-463c-11eb-8a94-b6fbe44bf00f.png" />
-  A light-weight and highly customizable SVG graphic set for Flutter, which provides a Customizer Widget, CircleAvatar and other utility functions.
-  Personalize your fluttter app now !
+   A light-weight and highly customizable SVG avatar set for Flutter, which provides a Customizer Widget, CircleAvatar and other utility functions, all with sound Null Safety. Personalize your fluttter app now !
 
 - [Tug Of War - A Witty Multiplayer Game](https://play.google.com/store/apps/details?id=com.statefullyfidgeting.tugofwar)
   
@@ -21,16 +29,11 @@
   Simple and efficient way to access your Academic Reports – Attendance and Marks, from Ramaiah Institute's Student Information System. This Action on Google runs on a webhook to a Nodejs server that handles queries and retrieves student records by scraping the source. ( Temporarily unavailable )
 <br/>
 
-### 🗣 Get in touch :
-
-[<img align="left" alt="Suraj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Suraj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Suraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Suraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br /><br/><br />
-<img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true" />
+<br/><br />
+<img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true&theme=dark" />
 
 [twitter]: https://twitter.com/psk_907
+[medium]: https://psk907.medium.com/previewing-responsive-design-with-flutter-2-8a9b402cf67e
 [youtube]: https://www.youtube.com/channel/UCO8sg4oeacuBRcM99SZ3vIA
 [instagram]: https://instagram.com/psk_907
 [linkedin]: https://linkedin.com/in/psk907
