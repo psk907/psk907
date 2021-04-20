@@ -29,7 +29,6 @@
   Simple and efficient way to access your Academic Reports – Attendance and Marks, from Ramaiah Institute's Student Information System. This Action on Google runs on a webhook to a Nodejs server that handles queries and retrieves student records by scraping the source. ( Temporarily unavailable )
 <br/>
 
-<br/><br />
 <img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true&theme=dark" />
 
 [twitter]: https://twitter.com/psk_907
