@@ -12,6 +12,13 @@
 💻🔭 I'm a technology and space enthusiast who likes to build stuff with code and see products come to life !
 
 ### My best work yet :
+
+- [GDSC RIT - Mobile App](https://play.google.com/u/1/store/apps/details?id=com.gdscrit.gdscrit_app)
+  
+  <img align="right" height="50" src="https://play-lh.googleusercontent.com/CZOeeoD_SktAXnqvK5AEHKhprGRQO1XjPgTM2wgA3_6egUNx7nWHBQaEIvByi8XexmLP=s180-rw" />
+  Official community app for Google Developer Student Clubs - Ramaiah Institute of Technology. Get access to the latest events and happenings at MSRIT, discover new jobs and internships, share your blogs and projects with the audience and much more !
+  Gained 500+ downloads and currently upto 300 active users.
+  
 - [Fluttermoji | pub.dev](https://pub.dev/packages/fluttermoji)
   
   <img align="right" height="50" src="https://user-images.githubusercontent.com/37346450/103101129-1b9a2100-463c-11eb-8a94-b6fbe44bf00f.png" />
@@ -23,10 +30,6 @@
   An online multiplayer game designed to be played with friends, family or with a partner.
   Engage yourself in a enticing session of fun and relatable questions that teases your squad to the limits !
   Earned more than 1200 installs on the Google Play Store.
-- [RITbot Student](https://www.youtube.com/watch?v=NF0g8a2Hj_s)
-  
-  <img align="right" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png" />
-  Simple and efficient way to access your Academic Reports – Attendance and Marks, from Ramaiah Institute's Student Information System. This Action on Google runs on a webhook to a Nodejs server that handles queries and retrieves student records by scraping the source. ( Discontinued )
 <br/>
 
 <img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=psk907&show_icons=true&hide_border=false&count_private=true&theme=dark" />
